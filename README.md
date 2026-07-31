@@ -168,8 +168,7 @@ Autonomous-Restaurant-Service-Robot/
 │   ├── stm32/
 │   └── arduino/
 │
-├── software/
-│   └── mobile-app/
+├── mobile-app/
 │
 ├── README.md
 ├── LICENSE
